@@ -1,4 +1,5 @@
-# this program will fatch data from 14 domains of indeed.com. Job name, company name, location, url, and save it into csv file
+# Raimal Raja
+#this program will fatch data from 14 domains of indeed.com. Job name, company name, location, url, and save it into csv file
 # cloudscraper = for bypassing bot protection
 # beautiful soup = for parsing HTML
 # pandas = for interacting with data, manuplating, organizing, using structure named DataFrame
