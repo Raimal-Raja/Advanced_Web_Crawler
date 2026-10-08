@@ -1,0 +1,9 @@
+# Direct dependencies identified from source imports.
+# Use an isolated environment; these are not a locked or fully runtime-tested environment.
+cloudscraper
+beautifulsoup4
+pandas
+requests
+selenium
+undetected-chromedriver
+fake-useragent
