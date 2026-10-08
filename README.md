@@ -2,13 +2,12 @@
 
 Python Indeed scraping prototype for collecting job listings across country domains and saving CSV results.
 
-## Repository guide
+## Setup and repository reference
 
-### Contents
+### Project structure
 
 - [Indeed_job_Scraper.py](Indeed_job_Scraper.py)
 - [Multi_Country_Job_results.csv](Multi_Country_Job_results.csv)
-- [README.md](README.md)
 - [requirements.txt](requirements.txt)
 
 ### Getting started
@@ -39,7 +38,11 @@ Live scraping depends on site permissions, browser availability, current page ma
 
 ### Validation
 
-Reviewed on 2026-10-08. Python syntax checks passed for 1 source files. Syntax validation does not establish runtime correctness or dependency compatibility.
+Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 1 existing Python files passed syntax checks; changed files and new regression tests were checked separately. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
+
+### Repository description
+
+The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
 
 ### Contributions
 
